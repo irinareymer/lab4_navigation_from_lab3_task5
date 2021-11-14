@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab4 navigation task5</string>
+    <string name="to_fragment_2">Go to fragment 2</string>
+    <string name="to_fragment_3">Go to fragment 3</string>
+    <string name="back_fragment_1">Back to fragment 1</string>
+    <string name="back_fragment_2">Back to fragment 2</string>
+    <string name="fragment_3">Fragment 3</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="about">About</string>
+    <string name="activity_about">Activity About</string>
+    <string name="back">Back</string>
+</resources>
